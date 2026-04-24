@@ -2,6 +2,30 @@
 //Project 3 - Grocery Tracker
 //CS210 Programming Languages
 
+// Summarize the project and what problem it was solving?
+   This project had many different moving parts and included a text file that needed to be read and return data as part of the output. 
+   No calculations were needed, but understanding how to code new logic. I can see many application where this type of coding could be used 
+   in Data collection and analysis. 
+   
+   What did you do particularly well?
+   I felt I did a good job in seperating the program into logical sections that allow for readability and logical format.This program allowed me 
+   focus on clean design and logical output. 
+   
+   Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
+   I found through this course that my logic in error handling and writing logic to handle such errors. Overall, I think that outside of this class, I need to continue to 
+   challenge myself in writing code in area where I feel I need to develop clear thought. 
+   
+   Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
+   In each piece of coding thoughout this course, debugging errors and rethinking my logic as I code. At times, I had to rethink my process as I attemped to write the code which helped.
+   
+   What skills from this project will be particularly transferable to other projects or course work?
+   I, personally, was at a crossroads I was unsure about my ability early in Computer Science. This course has taught me that coding is about the process of learning and experience and 
+   understanding the logic of coding. Planning and preperation was a big learning focus for me. 
+   
+   How did you make this program maintainable, readable, and adaptable?
+   I wanted to make sure that I followed the correct naming convention and worked to ensure that I was clearly commenting the sections of the code
+   and that allowed me to think through this coding challenge. 
+   
 
 #include <iostream>
 #include <fstream>
